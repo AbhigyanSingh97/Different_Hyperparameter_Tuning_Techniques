@@ -20,7 +20,7 @@ News data obtained from Kaggle. [link](https://www.kaggle.com/colearninglounge/p
 - numpy
 - matplotlib
 - sklearn
-- - skOpt
+- skOpt
 - hyperOpt
 - Optuna
 ---
